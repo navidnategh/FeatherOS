@@ -165,6 +165,6 @@ construction, configuration, performance, and security.
 
 No license has been selected yet. 🤷‍♂️
 
-## DownLoad 
-Releases FeatherOS 1.2 
-https://github.com/navidnategh/FeatherOS/releases/tag/v1.2.0
+## Download
+
+[Download FeatherOS 1.2](https://github.com/navidnategh/FeatherOS/releases/tag/v1.2.0)
