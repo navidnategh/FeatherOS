@@ -26,6 +26,12 @@ building, testing, breaking, and improving my own Linux distribution.
 
 ---
 
+## Screenshots
+
+### Boot Screen
+![FeatherOS Boot](screenshots/boot.png)
+
+
 ## FeatherOS 1.2
 
 ### Base System
