@@ -141,13 +141,6 @@ FeatherOS aims to be:
 - [x] VMware testing
 - [x] VirtualBox testing
 
-### Future
-
-- [ ] More detailed performance benchmarking
-- [ ] Further boot and service optimization
-- [ ] Optional firewall configuration
-- [ ] Optional cybersecurity profile
-- [ ] Further Guide improvements
 
 ---
 
